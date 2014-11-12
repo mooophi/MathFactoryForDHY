@@ -1,5 +1,0 @@
-F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\bin\Debug\MoGeneral.dll
-F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\bin\Debug\MoGeneral.pdb
-F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\obj\Debug\ResolveAssemblyReference.cache
-F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\obj\Debug\MoGeneral.dll
-F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\obj\Debug\MoGeneral.pdb
