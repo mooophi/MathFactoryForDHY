@@ -1,0 +1,8 @@
+F:\MathFactoryForD.H.Y\MoXml\MoXml\obj\Debug\ResolveAssemblyReference.cache
+F:\MathFactoryForD.H.Y\MoXml\MoXml\bin\Debug\MoXml.dll
+F:\MathFactoryForD.H.Y\MoXml\MoXml\bin\Debug\MoXml.pdb
+F:\MathFactoryForD.H.Y\MoXml\MoXml\bin\Debug\bcParser.NET.dll
+F:\MathFactoryForD.H.Y\MoXml\MoXml\bin\Debug\MoGeneral.dll
+F:\MathFactoryForD.H.Y\MoXml\MoXml\bin\Debug\MoGeneral.pdb
+F:\MathFactoryForD.H.Y\MoXml\MoXml\obj\Debug\MoXml.dll
+F:\MathFactoryForD.H.Y\MoXml\MoXml\obj\Debug\MoXml.pdb
