@@ -80,11 +80,11 @@
     <Compile Include="Scripts\LocalDefines.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MoGeneral\MoGeneral\MoGeneral.csproj">
+    <ProjectReference Include="..\MoGeneral\MoGeneral.csproj">
       <Project>{5039082C-A00E-4D61-8BF5-B04E66B7A535}</Project>
       <Name>MoGeneral</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MoXml\MoXml\MoXml.csproj">
+    <ProjectReference Include="..\MoXml\MoXml.csproj">
       <Project>{0250F870-AD14-4716-BF13-0239E747EBEE}</Project>
       <Name>MoXml</Name>
     </ProjectReference>
