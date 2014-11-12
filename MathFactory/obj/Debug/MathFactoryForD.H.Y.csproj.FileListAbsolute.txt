@@ -1,0 +1,30 @@
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\MathFactoryForD.H.Y.exe
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\MathFactoryForD.H.Y.pdb
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\NPlot.dll
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\System.Data.SQLite.dll
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\NPlot.xml
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.Properties.Resources.resources
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.csproj.GenerateResource.Cache
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.exe
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.pdb
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\bcParser.NET.dll
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.Forms.MainForm.resources
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\office.dll
+C:\Users\KodUser\Documents\Visual Studio 2008\Projects\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.exe
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.pdb
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\MathFactoryForD.H.Y.exe
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\MathFactoryForD.H.Y.pdb
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\bcParser.NET.dll
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\NPlot.dll
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\System.Data.SQLite.dll
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\office.dll
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\bin\Debug\NPlot.xml
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\ResolveAssemblyReference.cache
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.Forms.MainForm.resources
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.Properties.Resources.resources
+F:\MathFactoryForD.H.Y\MathFactoryForD.H.Y\obj\Debug\MathFactoryForD.H.Y.csproj.GenerateResource.Cache
