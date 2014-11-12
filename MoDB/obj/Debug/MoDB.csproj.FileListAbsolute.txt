@@ -1,0 +1,16 @@
+F:\MathFactoryForD.H.Y\MoDB\MoDB\obj\Debug\ResolveAssemblyReference.cache
+F:\MathFactoryForD.H.Y\MoDB\MoDB\bin\Debug\MoDB.dll
+F:\MathFactoryForD.H.Y\MoDB\MoDB\bin\Debug\MoDB.pdb
+F:\MathFactoryForD.H.Y\MoDB\MoDB\bin\Debug\MoGeneral.dll
+F:\MathFactoryForD.H.Y\MoDB\MoDB\bin\Debug\System.Data.SQLite.dll
+F:\MathFactoryForD.H.Y\MoDB\MoDB\bin\Debug\MoGeneral.pdb
+F:\MathFactoryForD.H.Y\MoDB\MoDB\obj\Debug\MoDB.dll
+F:\MathFactoryForD.H.Y\MoDB\MoDB\obj\Debug\MoDB.pdb
+F:\MathFactoryForDHY\MoDB\obj\Debug\ResolveAssemblyReference.cache
+F:\MathFactoryForDHY\MoDB\bin\Debug\MoDB.dll
+F:\MathFactoryForDHY\MoDB\bin\Debug\MoDB.pdb
+F:\MathFactoryForDHY\MoDB\bin\Debug\MoGeneral.dll
+F:\MathFactoryForDHY\MoDB\bin\Debug\System.Data.SQLite.dll
+F:\MathFactoryForDHY\MoDB\bin\Debug\MoGeneral.pdb
+F:\MathFactoryForDHY\MoDB\obj\Debug\MoDB.dll
+F:\MathFactoryForDHY\MoDB\obj\Debug\MoDB.pdb
