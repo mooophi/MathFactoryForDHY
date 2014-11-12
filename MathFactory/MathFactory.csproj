@@ -8,8 +8,8 @@
     <ProjectGuid>{70994601-89C2-4106-96B6-A7BBD0E209A4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MathFactoryForD.H.Y</RootNamespace>
-    <AssemblyName>MathFactoryForD.H.Y</AssemblyName>
+    <RootNamespace>MathFactoryForDHY</RootNamespace>
+    <AssemblyName>MathFactoryForDHY</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -67,6 +67,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
