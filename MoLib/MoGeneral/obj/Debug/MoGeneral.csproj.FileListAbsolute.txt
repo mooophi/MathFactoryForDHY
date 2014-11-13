@@ -1,0 +1,17 @@
+F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\bin\Debug\MoGeneral.dll
+F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\bin\Debug\MoGeneral.pdb
+F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\obj\Debug\ResolveAssemblyReference.cache
+F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\obj\Debug\MoGeneral.dll
+F:\MathFactoryForD.H.Y\MoGeneral\MoGeneral\obj\Debug\MoGeneral.pdb
+F:\MathFactoryForDHY\MoGeneral\bin\Debug\MoGeneral.dll
+F:\MathFactoryForDHY\MoGeneral\bin\Debug\MoGeneral.pdb
+F:\MathFactoryForDHY\MoGeneral\obj\Debug\ResolveAssemblyReference.cache
+F:\MathFactoryForDHY\MoGeneral\obj\Debug\MoGeneral.dll
+F:\MathFactoryForDHY\MoGeneral\obj\Debug\MoGeneral.pdb
+F:\MathFactoryForDHY\MoLib\MoGeneral\bin\Debug\MoGeneral.dll
+F:\MathFactoryForDHY\MoLib\MoGeneral\bin\Debug\MoGeneral.pdb
+F:\MathFactoryForDHY\MoLib\MoGeneral\obj\Debug\ResolveAssemblyReference.cache
+F:\MathFactoryForDHY\MoLib\MoGeneral\obj\Debug\MoGeneral.dll
+F:\MathFactoryForDHY\MoLib\MoGeneral\obj\Debug\MoGeneral.pdb
+F:\MathFactoryForDHY\MoLib\Library\MoGeneral.dll
+F:\MathFactoryForDHY\MoLib\Library\MoGeneral.pdb
