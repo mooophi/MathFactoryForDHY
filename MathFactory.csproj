@@ -48,11 +48,11 @@
   <ItemGroup>
     <Reference Include="MoGeneral, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>Scripts\MoLib\MoGeneral.dll</HintPath>
+      <HintPath>Scripts\MoLib_dll\MoGeneral.dll</HintPath>
     </Reference>
     <Reference Include="MoXml, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>Scripts\MoLib\MoXml.dll</HintPath>
+      <HintPath>Scripts\MoLib_dll\MoXml.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
