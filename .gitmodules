@@ -1,3 +1,6 @@
 [submodule "Scripts/MoLib/MoLib_dll"]
 	path = Scripts/MoLib/MoLib_dll
 	url = F:\\MoLib\\MoLib_dll
+[submodule "Scripts/MoLib_dll"]
+	path = Scripts/MoLib_dll
+	url = F:\\MoLib\\MoLib_dll
